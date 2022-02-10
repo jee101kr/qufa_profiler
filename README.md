@@ -13,5 +13,5 @@ Local file의 path 또는 url로 프로파일링 요청 시,
  * run ProfilerApplication.java
 
 ## Usage / Reference
- * API Specifcation Link : https://gitlab.com/qufa-ptech/qufa-profiler/-/blob/profiler2021/API.md
+ * API Specifcation Link : https://github.com/jee101kr/qufa_profiler/blob/master/API.md
  * Swagger Hub Link : https://app.swaggerhub.com/apis/jee101kr/QuFa/1.0.0
